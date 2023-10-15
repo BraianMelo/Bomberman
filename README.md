@@ -4,4 +4,4 @@ Grupo:
 Juan Victor Costa Silva Aleixo
 Henqique Reisen Zanotti
 Braian Melo Silva
-JOÃO Augusto Ferreira Pereira
+João Augusto Ferreira Pereira
